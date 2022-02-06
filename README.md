@@ -15,4 +15,4 @@ Please fork this repository and then issue Pull Requests for rewiev
 
 ### Copyright
 
-2022 Git.Training
+2022 Git.Training. All rights reserved.
